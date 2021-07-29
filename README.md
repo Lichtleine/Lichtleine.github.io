@@ -1,5 +1,5 @@
 # Lichtleine.github.io
-<!DOCTYPE html>
+<!Lichtleine's Doc>
 <html lang="en">
 
 <head>
